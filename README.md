@@ -18,6 +18,9 @@ Steps:
 
 6) The table elements < td > should be styled using at least four properties
 
+Here you can see the styled "team.html" page:
+https://codepen.io/yohanaff/pen/XWgJBJd
+
 ___
 
 Esse é o meu projeto final para o curso de Introdução ao CSS3 do Coursera e da Universidade de Michigan.
@@ -40,3 +43,5 @@ Etapas:
 
 6) Os elementos da tabela < td > devem ser estilizados com pelo menos quatro propriedades
 
+Aqui você pode ver a página "team.html" estilizada:
+https://codepen.io/yohanaff/pen/XWgJBJd
